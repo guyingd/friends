@@ -1,0 +1,61 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "魔改版hexo",
+      "url": "https://guying.myhexo.guyinga.top",
+      "avatar": "https://avatars.githubusercontent.com/u/79262296?s=80&v=4",
+      "screenshot": "https://avatars.githubusercontent.com/u/79262296?s=80&v=4",
+      "description": "魔改版hexo蝴蝶主题"
+    },
+    {
+      "title": "桑帛API",
+      "url": "https://api.caonm.net/",
+      "avatar": "",
+      "screenshot": "",
+      "description": "桑帛API"
+    },
+    {
+      "title": "御坂API",
+      "url": "https://misaka-api.com/",
+      "avatar": "https://misaka-api.com/favicon.ico",
+      "screenshot": "https://misaka-api.com/favicon.ico",
+      "description": "稳定、快速、免费的API接口调用平台"
+    },
+    {
+      "title": "星之阁API",
+      "url": "https://api.xingzhige.com/",
+      "avatar": "https://blog.xingzhige.com/image/Icon.png",
+      "screenshot": "https://blog.xingzhige.com/image/Icon.png",
+      "description": "不要和你的努力说对不起，那样会多对不起你的努力啊！"
+    },
+    {
+      "title": "孤影blog",
+      "url": "https://blog.guyinga.top",
+      "avatar": "https://avatars.githubusercontent.com/u/79262296?s=80&v=4",
+      "screenshot": "",
+      "description": "个人网站"
+    },
+    {
+      "title": "傲慢或香橙",
+      "url": "https://xiangshu233.cn",
+      "avatar": "https://fastly.jsdelivr.net/gh/xiangshu233/blogAssets@0.2/assets/images/avatar-1.jpg",
+      "screenshot": "https://image.thum.io/get/https://www.xiangshu233.cn",
+      "description": "随知修行乃当务之急，然怠惰度日至今"
+    },
+    {
+      "title": "星日语",
+      "url": "https://weekdaycare.cn/",
+      "avatar": "https://api.iconify.design/line-md:sunny-outline-twotone-loop.svg?color=%23eb4600",
+      "screenshot": "",
+      "description": "星语日点灯"
+    },
+    {
+      "title": "xaoxuu",
+      "url": "https://xaoxuu.com",
+      "avatar": "https://avatars.githubusercontent.com/u/16400144?v=4",
+      "screenshot": "https://avatars.githubusercontent.com/u/16400144?v=4",
+      "description": "XAOXUU 风暴前夕"
+    }
+  ]
+}
